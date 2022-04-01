@@ -1,0 +1,1405 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamImageX",
+			"GroupId": "",
+			"Name": "位置X"
+		},
+		{
+			"Id": "ParamImageY",
+			"GroupId": "",
+			"Name": "位置Y"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup25",
+			"Name": "キラE1"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup25",
+			"Name": "キラE2"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup25",
+			"Name": "キラE3"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup25",
+			"Name": "キラE4"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup25",
+			"Name": "キラE5"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup25",
+			"Name": "キラE6"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup25",
+			"Name": "キラE7"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup25",
+			"Name": "キラE8"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup25",
+			"Name": "キラE9"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup25",
+			"Name": "キラE10"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup25",
+			"Name": "キラE11"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup25",
+			"Name": "ぽわE1"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup25",
+			"Name": "ぽわE2"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup25",
+			"Name": "ぽわE3"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup25",
+			"Name": "パーティクルEUD"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup25",
+			"Name": "パーティクルELR"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右目　笑顔"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "照れ"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "体の回転　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamEyes",
+			"GroupId": "",
+			"Name": "目パチ"
+		},
+		{
+			"Id": "ParamEyeRL",
+			"GroupId": "ParamGroup24",
+			"Name": "目光左右"
+		},
+		{
+			"Id": "ParamEyeHB",
+			"GroupId": "ParamGroup24",
+			"Name": "目光上下"
+		},
+		{
+			"Id": "ParamEyeBS",
+			"GroupId": "ParamGroup24",
+			"Name": "目光大小"
+		},
+		{
+			"Id": "ParamPaiX",
+			"GroupId": "ParamGroup23",
+			"Name": "右胸X"
+		},
+		{
+			"Id": "ParamPaiY",
+			"GroupId": "ParamGroup23",
+			"Name": "右胸Y"
+		},
+		{
+			"Id": "ParamPaiX2",
+			"GroupId": "ParamGroup23",
+			"Name": "右胸2X"
+		},
+		{
+			"Id": "ParamPaiY2",
+			"GroupId": "ParamGroup23",
+			"Name": "右胸2Y"
+		},
+		{
+			"Id": "ParamPai2X",
+			"GroupId": "ParamGroup23",
+			"Name": "左胸X"
+		},
+		{
+			"Id": "ParamPai2Y",
+			"GroupId": "ParamGroup23",
+			"Name": "左胸Y"
+		},
+		{
+			"Id": "ParamPai2X2",
+			"GroupId": "ParamGroup23",
+			"Name": "左胸2X"
+		},
+		{
+			"Id": "ParamPai2Y2",
+			"GroupId": "ParamGroup23",
+			"Name": "左胸2Y"
+		},
+		{
+			"Id": "Param_Angle_Rotation6",
+			"GroupId": "ParamGroup",
+			"Name": "[0]前髪_頂点2"
+		},
+		{
+			"Id": "Param_Angle_Rotation7",
+			"GroupId": "ParamGroup",
+			"Name": "[1]前髪_頂点2"
+		},
+		{
+			"Id": "Param_Angle_Rotation8",
+			"GroupId": "ParamGroup",
+			"Name": "[2]前髪_頂点2"
+		},
+		{
+			"Id": "Param_Angle_Rotation9",
+			"GroupId": "ParamGroup",
+			"Name": "[3]前髪_頂点2"
+		},
+		{
+			"Id": "Param_Angle_Rotation10",
+			"GroupId": "ParamGroup",
+			"Name": "[4]前髪_頂点2"
+		},
+		{
+			"Id": "Param_Angle_Rotation11",
+			"GroupId": "ParamGroup",
+			"Name": "[5]前髪_頂点2"
+		},
+		{
+			"Id": "Param_Angle_Rotation12",
+			"GroupId": "ParamGroup2",
+			"Name": "[0]前髪_中央上"
+		},
+		{
+			"Id": "Param_Angle_Rotation13",
+			"GroupId": "ParamGroup2",
+			"Name": "[1]前髪_中央上"
+		},
+		{
+			"Id": "Param_Angle_Rotation14",
+			"GroupId": "ParamGroup2",
+			"Name": "[2]前髪_中央上"
+		},
+		{
+			"Id": "Param_Angle_Rotation15",
+			"GroupId": "ParamGroup2",
+			"Name": "[3]前髪_中央上"
+		},
+		{
+			"Id": "Param_Angle_Rotation16",
+			"GroupId": "ParamGroup2",
+			"Name": "[4]前髪_中央上"
+		},
+		{
+			"Id": "Param_Angle_Rotation17",
+			"GroupId": "ParamGroup3",
+			"Name": "[0]前髪_中央01"
+		},
+		{
+			"Id": "Param_Angle_Rotation18",
+			"GroupId": "ParamGroup3",
+			"Name": "[1]前髪_中央01"
+		},
+		{
+			"Id": "Param_Angle_Rotation19",
+			"GroupId": "ParamGroup3",
+			"Name": "[2]前髪_中央01"
+		},
+		{
+			"Id": "Param_Angle_Rotation20",
+			"GroupId": "ParamGroup3",
+			"Name": "[3]前髪_中央01"
+		},
+		{
+			"Id": "Param_Angle_Rotation21",
+			"GroupId": "ParamGroup3",
+			"Name": "[4]前髪_中央01"
+		},
+		{
+			"Id": "Param_Angle_Rotation168",
+			"GroupId": "ParamGroup22",
+			"Name": "[0]前髪_中央02"
+		},
+		{
+			"Id": "Param_Angle_Rotation169",
+			"GroupId": "ParamGroup22",
+			"Name": "[1]前髪_中央02"
+		},
+		{
+			"Id": "Param_Angle_Rotation170",
+			"GroupId": "ParamGroup22",
+			"Name": "[2]前髪_中央02"
+		},
+		{
+			"Id": "Param_Angle_Rotation171",
+			"GroupId": "ParamGroup22",
+			"Name": "[3]前髪_中央02"
+		},
+		{
+			"Id": "Param_Angle_Rotation172",
+			"GroupId": "ParamGroup22",
+			"Name": "[4]前髪_中央02"
+		},
+		{
+			"Id": "Param_Angle_Rotation22",
+			"GroupId": "ParamGroup4",
+			"Name": "[0]前髪_左01"
+		},
+		{
+			"Id": "Param_Angle_Rotation23",
+			"GroupId": "ParamGroup4",
+			"Name": "[1]前髪_左01"
+		},
+		{
+			"Id": "Param_Angle_Rotation24",
+			"GroupId": "ParamGroup4",
+			"Name": "[2]前髪_左01"
+		},
+		{
+			"Id": "Param_Angle_Rotation25",
+			"GroupId": "ParamGroup4",
+			"Name": "[3]前髪_左01"
+		},
+		{
+			"Id": "Param_Angle_Rotation26",
+			"GroupId": "ParamGroup4",
+			"Name": "[4]前髪_左01"
+		},
+		{
+			"Id": "Param_Angle_Rotation27",
+			"GroupId": "ParamGroup4",
+			"Name": "[5]前髪_左01"
+		},
+		{
+			"Id": "Param_Angle_Rotation28",
+			"GroupId": "ParamGroup6",
+			"Name": "[0]前髪_左7"
+		},
+		{
+			"Id": "Param_Angle_Rotation29",
+			"GroupId": "ParamGroup6",
+			"Name": "[1]前髪_左7"
+		},
+		{
+			"Id": "Param_Angle_Rotation30",
+			"GroupId": "ParamGroup6",
+			"Name": "[2]前髪_左7"
+		},
+		{
+			"Id": "Param_Angle_Rotation31",
+			"GroupId": "ParamGroup6",
+			"Name": "[3]前髪_左7"
+		},
+		{
+			"Id": "Param_Angle_Rotation32",
+			"GroupId": "ParamGroup6",
+			"Name": "[4]前髪_左7"
+		},
+		{
+			"Id": "Param_Angle_Rotation33",
+			"GroupId": "ParamGroup6",
+			"Name": "[5]前髪_左7"
+		},
+		{
+			"Id": "Param_Angle_Rotation34",
+			"GroupId": "ParamGroup5",
+			"Name": "[0]前髪_左03"
+		},
+		{
+			"Id": "Param_Angle_Rotation35",
+			"GroupId": "ParamGroup5",
+			"Name": "[1]前髪_左03"
+		},
+		{
+			"Id": "Param_Angle_Rotation36",
+			"GroupId": "ParamGroup5",
+			"Name": "[2]前髪_左03"
+		},
+		{
+			"Id": "Param_Angle_Rotation37",
+			"GroupId": "ParamGroup5",
+			"Name": "[3]前髪_左03"
+		},
+		{
+			"Id": "Param_Angle_Rotation38",
+			"GroupId": "ParamGroup5",
+			"Name": "[4]前髪_左03"
+		},
+		{
+			"Id": "Param_Angle_Rotation39",
+			"GroupId": "ParamGroup5",
+			"Name": "[5]前髪_左03"
+		},
+		{
+			"Id": "Param_Angle_Rotation40",
+			"GroupId": "ParamGroup5",
+			"Name": "[6]前髪_左03"
+		},
+		{
+			"Id": "Param_Angle_Rotation41",
+			"GroupId": "ParamGroup5",
+			"Name": "[7]前髪_左03"
+		},
+		{
+			"Id": "Param_Angle_Rotation42",
+			"GroupId": "ParamGroup7",
+			"Name": "[0]前髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation43",
+			"GroupId": "ParamGroup7",
+			"Name": "[1]前髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation44",
+			"GroupId": "ParamGroup7",
+			"Name": "[2]前髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation45",
+			"GroupId": "ParamGroup7",
+			"Name": "[3]前髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation46",
+			"GroupId": "ParamGroup7",
+			"Name": "[4]前髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation47",
+			"GroupId": "ParamGroup10",
+			"Name": "[0]前髪_右6"
+		},
+		{
+			"Id": "Param_Angle_Rotation48",
+			"GroupId": "ParamGroup10",
+			"Name": "[1]前髪_右6"
+		},
+		{
+			"Id": "Param_Angle_Rotation49",
+			"GroupId": "ParamGroup10",
+			"Name": "[2]前髪_右6"
+		},
+		{
+			"Id": "Param_Angle_Rotation50",
+			"GroupId": "ParamGroup10",
+			"Name": "[3]前髪_右6"
+		},
+		{
+			"Id": "Param_Angle_Rotation51",
+			"GroupId": "ParamGroup10",
+			"Name": "[4]前髪_右6"
+		},
+		{
+			"Id": "Param_Angle_Rotation52",
+			"GroupId": "ParamGroup8",
+			"Name": "[0]前髪_右03 右もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation53",
+			"GroupId": "ParamGroup8",
+			"Name": "[1]前髪_右03 右もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation54",
+			"GroupId": "ParamGroup8",
+			"Name": "[2]前髪_右03 右もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation55",
+			"GroupId": "ParamGroup8",
+			"Name": "[3]前髪_右03 右もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation56",
+			"GroupId": "ParamGroup8",
+			"Name": "[4]前髪_右03 右もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation57",
+			"GroupId": "ParamGroup8",
+			"Name": "[5]前髪_右03 右もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation58",
+			"GroupId": "ParamGroup8",
+			"Name": "[6]前髪_右03 右もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation59",
+			"GroupId": "ParamGroup8",
+			"Name": "[7]前髪_右03 右もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation60",
+			"GroupId": "ParamGroup8",
+			"Name": "[8]前髪_右03 右もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation63",
+			"GroupId": "ParamGroup9",
+			"Name": "[0]前髪_右04"
+		},
+		{
+			"Id": "Param_Angle_Rotation64",
+			"GroupId": "ParamGroup9",
+			"Name": "[1]前髪_右04"
+		},
+		{
+			"Id": "Param_Angle_Rotation65",
+			"GroupId": "ParamGroup9",
+			"Name": "[2]前髪_右04"
+		},
+		{
+			"Id": "Param_Angle_Rotation66",
+			"GroupId": "ParamGroup9",
+			"Name": "[3]前髪_右04"
+		},
+		{
+			"Id": "Param_Angle_Rotation67",
+			"GroupId": "ParamGroup9",
+			"Name": "[4]前髪_右04"
+		},
+		{
+			"Id": "Param_Angle_Rotation68",
+			"GroupId": "ParamGroup11",
+			"Name": "[0]後ろ髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation69",
+			"GroupId": "ParamGroup11",
+			"Name": "[1]後ろ髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation70",
+			"GroupId": "ParamGroup11",
+			"Name": "[2]後ろ髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation71",
+			"GroupId": "ParamGroup11",
+			"Name": "[3]後ろ髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation72",
+			"GroupId": "ParamGroup11",
+			"Name": "[4]後ろ髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation73",
+			"GroupId": "ParamGroup11",
+			"Name": "[5]後ろ髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation74",
+			"GroupId": "ParamGroup11",
+			"Name": "[6]後ろ髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation75",
+			"GroupId": "ParamGroup11",
+			"Name": "[7]後ろ髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation76",
+			"GroupId": "ParamGroup11",
+			"Name": "[8]後ろ髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation77",
+			"GroupId": "ParamGroup11",
+			"Name": "[9]後ろ髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation78",
+			"GroupId": "ParamGroup11",
+			"Name": "[10]後ろ髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation79",
+			"GroupId": "ParamGroup11",
+			"Name": "[11]後ろ髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation80",
+			"GroupId": "ParamGroup11",
+			"Name": "[12]後ろ髪_右01"
+		},
+		{
+			"Id": "Param_Angle_Rotation61",
+			"GroupId": "ParamGroup12",
+			"Name": "[0]後ろ髪_右02"
+		},
+		{
+			"Id": "Param_Angle_Rotation62",
+			"GroupId": "ParamGroup12",
+			"Name": "[1]後ろ髪_右02"
+		},
+		{
+			"Id": "Param_Angle_Rotation81",
+			"GroupId": "ParamGroup12",
+			"Name": "[2]後ろ髪_右02"
+		},
+		{
+			"Id": "Param_Angle_Rotation82",
+			"GroupId": "ParamGroup12",
+			"Name": "[3]後ろ髪_右02"
+		},
+		{
+			"Id": "Param_Angle_Rotation83",
+			"GroupId": "ParamGroup12",
+			"Name": "[4]後ろ髪_右02"
+		},
+		{
+			"Id": "Param_Angle_Rotation84",
+			"GroupId": "ParamGroup12",
+			"Name": "[5]後ろ髪_右02"
+		},
+		{
+			"Id": "Param_Angle_Rotation85",
+			"GroupId": "ParamGroup12",
+			"Name": "[6]後ろ髪_右02"
+		},
+		{
+			"Id": "Param_Angle_Rotation86",
+			"GroupId": "ParamGroup12",
+			"Name": "[7]後ろ髪_右02"
+		},
+		{
+			"Id": "Param_Angle_Rotation87",
+			"GroupId": "ParamGroup12",
+			"Name": "[8]後ろ髪_右02"
+		},
+		{
+			"Id": "Param_Angle_Rotation88",
+			"GroupId": "ParamGroup12",
+			"Name": "[9]後ろ髪_右02"
+		},
+		{
+			"Id": "Param_Angle_Rotation91",
+			"GroupId": "ParamGroup13",
+			"Name": "[0]後ろ髪_右08"
+		},
+		{
+			"Id": "Param_Angle_Rotation92",
+			"GroupId": "ParamGroup13",
+			"Name": "[1]後ろ髪_右08"
+		},
+		{
+			"Id": "Param_Angle_Rotation93",
+			"GroupId": "ParamGroup13",
+			"Name": "[2]後ろ髪_右08"
+		},
+		{
+			"Id": "Param_Angle_Rotation94",
+			"GroupId": "ParamGroup13",
+			"Name": "[3]後ろ髪_右08"
+		},
+		{
+			"Id": "Param_Angle_Rotation95",
+			"GroupId": "ParamGroup13",
+			"Name": "[4]後ろ髪_右08"
+		},
+		{
+			"Id": "Param_Angle_Rotation96",
+			"GroupId": "ParamGroup13",
+			"Name": "[5]後ろ髪_右08"
+		},
+		{
+			"Id": "Param_Angle_Rotation97",
+			"GroupId": "ParamGroup13",
+			"Name": "[6]後ろ髪_右08"
+		},
+		{
+			"Id": "Param_Angle_Rotation98",
+			"GroupId": "ParamGroup13",
+			"Name": "[7]後ろ髪_右08"
+		},
+		{
+			"Id": "Param_Angle_Rotation99",
+			"GroupId": "ParamGroup13",
+			"Name": "[8]後ろ髪_右08"
+		},
+		{
+			"Id": "Param_Angle_Rotation100",
+			"GroupId": "ParamGroup13",
+			"Name": "[9]後ろ髪_右08"
+		},
+		{
+			"Id": "Param_Angle_Rotation101",
+			"GroupId": "ParamGroup13",
+			"Name": "[10]後ろ髪_右08"
+		},
+		{
+			"Id": "Param_Angle_Rotation89",
+			"GroupId": "ParamGroup14",
+			"Name": "[0]後ろ髪_左01"
+		},
+		{
+			"Id": "Param_Angle_Rotation90",
+			"GroupId": "ParamGroup14",
+			"Name": "[1]後ろ髪_左01"
+		},
+		{
+			"Id": "Param_Angle_Rotation102",
+			"GroupId": "ParamGroup14",
+			"Name": "[2]後ろ髪_左01"
+		},
+		{
+			"Id": "Param_Angle_Rotation103",
+			"GroupId": "ParamGroup14",
+			"Name": "[3]後ろ髪_左01"
+		},
+		{
+			"Id": "Param_Angle_Rotation104",
+			"GroupId": "ParamGroup14",
+			"Name": "[4]後ろ髪_左01"
+		},
+		{
+			"Id": "Param_Angle_Rotation105",
+			"GroupId": "ParamGroup14",
+			"Name": "[5]後ろ髪_左01"
+		},
+		{
+			"Id": "Param_Angle_Rotation106",
+			"GroupId": "ParamGroup14",
+			"Name": "[6]後ろ髪_左01"
+		},
+		{
+			"Id": "Param_Angle_Rotation107",
+			"GroupId": "ParamGroup14",
+			"Name": "[7]後ろ髪_左01"
+		},
+		{
+			"Id": "Param_Angle_Rotation108",
+			"GroupId": "ParamGroup14",
+			"Name": "[8]後ろ髪_左01"
+		},
+		{
+			"Id": "Param_Angle_Rotation173",
+			"GroupId": "ParamGroup15",
+			"Name": "[0]後ろ髪_左02"
+		},
+		{
+			"Id": "Param_Angle_Rotation174",
+			"GroupId": "ParamGroup15",
+			"Name": "[1]後ろ髪_左02"
+		},
+		{
+			"Id": "Param_Angle_Rotation175",
+			"GroupId": "ParamGroup15",
+			"Name": "[2]後ろ髪_左02"
+		},
+		{
+			"Id": "Param_Angle_Rotation176",
+			"GroupId": "ParamGroup15",
+			"Name": "[3]後ろ髪_左02"
+		},
+		{
+			"Id": "Param_Angle_Rotation177",
+			"GroupId": "ParamGroup15",
+			"Name": "[4]後ろ髪_左02"
+		},
+		{
+			"Id": "Param_Angle_Rotation178",
+			"GroupId": "ParamGroup15",
+			"Name": "[5]後ろ髪_左02"
+		},
+		{
+			"Id": "Param_Angle_Rotation123",
+			"GroupId": "ParamGroup16",
+			"Name": "[0]後ろ髪_左03"
+		},
+		{
+			"Id": "Param_Angle_Rotation125",
+			"GroupId": "ParamGroup16",
+			"Name": "[1]後ろ髪_左03"
+		},
+		{
+			"Id": "Param_Angle_Rotation126",
+			"GroupId": "ParamGroup16",
+			"Name": "[2]後ろ髪_左03"
+		},
+		{
+			"Id": "Param_Angle_Rotation127",
+			"GroupId": "ParamGroup16",
+			"Name": "[3]後ろ髪_左03"
+		},
+		{
+			"Id": "Param_Angle_Rotation128",
+			"GroupId": "ParamGroup16",
+			"Name": "[4]後ろ髪_左03"
+		},
+		{
+			"Id": "Param_Angle_Rotation129",
+			"GroupId": "ParamGroup16",
+			"Name": "[5]後ろ髪_左03"
+		},
+		{
+			"Id": "Param_Angle_Rotation109",
+			"GroupId": "ParamGroup17",
+			"Name": "[0]後ろ髪_左04"
+		},
+		{
+			"Id": "Param_Angle_Rotation110",
+			"GroupId": "ParamGroup17",
+			"Name": "[1]後ろ髪_左04"
+		},
+		{
+			"Id": "Param_Angle_Rotation111",
+			"GroupId": "ParamGroup17",
+			"Name": "[2]後ろ髪_左04"
+		},
+		{
+			"Id": "Param_Angle_Rotation112",
+			"GroupId": "ParamGroup17",
+			"Name": "[3]後ろ髪_左04"
+		},
+		{
+			"Id": "Param_Angle_Rotation113",
+			"GroupId": "ParamGroup17",
+			"Name": "[4]後ろ髪_左04"
+		},
+		{
+			"Id": "Param_Angle_Rotation140",
+			"GroupId": "ParamGroup18",
+			"Name": "[0]後ろ髪_左05"
+		},
+		{
+			"Id": "Param_Angle_Rotation141",
+			"GroupId": "ParamGroup18",
+			"Name": "[1]後ろ髪_左05"
+		},
+		{
+			"Id": "Param_Angle_Rotation142",
+			"GroupId": "ParamGroup18",
+			"Name": "[2]後ろ髪_左05"
+		},
+		{
+			"Id": "Param_Angle_Rotation143",
+			"GroupId": "ParamGroup18",
+			"Name": "[3]後ろ髪_左05"
+		},
+		{
+			"Id": "Param_Angle_Rotation144",
+			"GroupId": "ParamGroup18",
+			"Name": "[4]後ろ髪_左05"
+		},
+		{
+			"Id": "Param_Angle_Rotation145",
+			"GroupId": "ParamGroup19",
+			"Name": "[0]後ろ髪_左06"
+		},
+		{
+			"Id": "Param_Angle_Rotation146",
+			"GroupId": "ParamGroup19",
+			"Name": "[1]後ろ髪_左06"
+		},
+		{
+			"Id": "Param_Angle_Rotation147",
+			"GroupId": "ParamGroup19",
+			"Name": "[2]後ろ髪_左06"
+		},
+		{
+			"Id": "Param_Angle_Rotation148",
+			"GroupId": "ParamGroup19",
+			"Name": "[3]後ろ髪_左06"
+		},
+		{
+			"Id": "Param_Angle_Rotation149",
+			"GroupId": "ParamGroup20",
+			"Name": "[0]前髪_左もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation150",
+			"GroupId": "ParamGroup20",
+			"Name": "[1]前髪_左もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation151",
+			"GroupId": "ParamGroup20",
+			"Name": "[2]前髪_左もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation152",
+			"GroupId": "ParamGroup20",
+			"Name": "[3]前髪_左もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation153",
+			"GroupId": "ParamGroup20",
+			"Name": "[4]前髪_左もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation154",
+			"GroupId": "ParamGroup20",
+			"Name": "[5]前髪_左もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation155",
+			"GroupId": "ParamGroup20",
+			"Name": "[6]前髪_左もみあげ"
+		},
+		{
+			"Id": "Param_Angle_Rotation157",
+			"GroupId": "ParamGroup21",
+			"Name": "[0]右手_リボン"
+		},
+		{
+			"Id": "Param_Angle_Rotation158",
+			"GroupId": "ParamGroup21",
+			"Name": "[1]右手_リボン"
+		},
+		{
+			"Id": "Param_Angle_Rotation159",
+			"GroupId": "ParamGroup21",
+			"Name": "[2]右手_リボン"
+		},
+		{
+			"Id": "Param_Angle_Rotation160",
+			"GroupId": "ParamGroup21",
+			"Name": "[3]右手_リボン"
+		},
+		{
+			"Id": "Param_Angle_Rotation161",
+			"GroupId": "ParamGroup21",
+			"Name": "[4]右手_リボン"
+		},
+		{
+			"Id": "Param_Angle_Rotation162",
+			"GroupId": "ParamGroup21",
+			"Name": "[5]右手_リボン"
+		},
+		{
+			"Id": "Param_Angle_Rotation163",
+			"GroupId": "ParamGroup21",
+			"Name": "[6]右手_リボン"
+		},
+		{
+			"Id": "Param_Angle_Rotation164",
+			"GroupId": "ParamGroup21",
+			"Name": "[7]右手_リボン"
+		},
+		{
+			"Id": "Param_Angle_Rotation165",
+			"GroupId": "ParamGroup21",
+			"Name": "[8]右手_リボン"
+		},
+		{
+			"Id": "Param_Angle_Rotation166",
+			"GroupId": "ParamGroup21",
+			"Name": "[9]右手_リボン"
+		},
+		{
+			"Id": "Param_Angle_Rotation167",
+			"GroupId": "ParamGroup21",
+			"Name": "[10]右手_リボン"
+		},
+		{
+			"Id": "Param_Angle_Rotation114",
+			"GroupId": "ParamGroup27",
+			"Name": "[0]太もも_リボン"
+		},
+		{
+			"Id": "Param_Angle_Rotation115",
+			"GroupId": "ParamGroup27",
+			"Name": "[1]太もも_リボン"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup25",
+			"GroupId": "",
+			"Name": "エフェクト"
+		},
+		{
+			"Id": "ParamGroup24",
+			"GroupId": "",
+			"Name": "瞳光"
+		},
+		{
+			"Id": "ParamGroup23",
+			"GroupId": "",
+			"Name": "胸"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "前髪_頂点"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "前髪_中央上"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "前髪_中央01"
+		},
+		{
+			"Id": "ParamGroup22",
+			"GroupId": "",
+			"Name": "前髪_中央02"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "前髪_左01"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "前髪_左02"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "前髪_左03"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "前髪_右01"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "前髪_右02"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "前髪_右03 右もみあげ"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "前髪_右04"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "後ろ髪_右01"
+		},
+		{
+			"Id": "ParamGroup12",
+			"GroupId": "",
+			"Name": "後ろ髪_右02"
+		},
+		{
+			"Id": "ParamGroup13",
+			"GroupId": "",
+			"Name": "後ろ髪_右03"
+		},
+		{
+			"Id": "ParamGroup14",
+			"GroupId": "",
+			"Name": "後ろ髪_左01"
+		},
+		{
+			"Id": "ParamGroup15",
+			"GroupId": "",
+			"Name": "後ろ髪_左02"
+		},
+		{
+			"Id": "ParamGroup16",
+			"GroupId": "",
+			"Name": "後ろ髪_左03"
+		},
+		{
+			"Id": "ParamGroup17",
+			"GroupId": "",
+			"Name": "後ろ髪_左04"
+		},
+		{
+			"Id": "ParamGroup18",
+			"GroupId": "",
+			"Name": "後ろ髪_左05"
+		},
+		{
+			"Id": "ParamGroup19",
+			"GroupId": "",
+			"Name": "後ろ髪_左06"
+		},
+		{
+			"Id": "ParamGroup20",
+			"GroupId": "",
+			"Name": "前髪_左もみあげ"
+		},
+		{
+			"Id": "ParamGroup21",
+			"GroupId": "",
+			"Name": "右手_リボン"
+		},
+		{
+			"Id": "ParamGroup27",
+			"GroupId": "",
+			"Name": "太もも_リボン"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part7",
+			"Name": "*エフェクト"
+		},
+		{
+			"Id": "Part",
+			"Name": "*葛城"
+		},
+		{
+			"Id": "Part6",
+			"Name": "*グロー"
+		},
+		{
+			"Id": "Part9",
+			"Name": "*葛城"
+		},
+		{
+			"Id": "ArtMesh3_Skinning",
+			"Name": "右手_リボン(スキニング)"
+		},
+		{
+			"Id": "Part2",
+			"Name": "*前髪"
+		},
+		{
+			"Id": "Part3",
+			"Name": "*表情"
+		},
+		{
+			"Id": "ArtMesh19_Skinning2",
+			"Name": "前髪_左もみあげ(スキニング)"
+		},
+		{
+			"Id": "ArtMesh19_Skinning",
+			"Name": "前髪_左もみあげ(スキニング)"
+		},
+		{
+			"Id": "Part4",
+			"Name": "*胸"
+		},
+		{
+			"Id": "ArtMesh321_Skinning",
+			"Name": "太もも_リボン_房(スキニング)"
+		},
+		{
+			"Id": "Part5",
+			"Name": "*後ろ髪"
+		},
+		{
+			"Id": "ArtMesh37_Skinning",
+			"Name": "グロー_右手_リボン(スキニング)"
+		},
+		{
+			"Id": "ArtMesh40_Skinning",
+			"Name": "グロー_前髪_頂点(スキニング)"
+		},
+		{
+			"Id": "ArtMesh41_Skinning",
+			"Name": "グロー_前髪_左02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh42_Skinning",
+			"Name": "グロー_前髪_左03(スキニング)"
+		},
+		{
+			"Id": "ArtMesh43_Skinning",
+			"Name": "グロー_前髪_右03 右もみあげ(スキニング)"
+		},
+		{
+			"Id": "ArtMesh44_Skinning2",
+			"Name": "グロー_前髪_左もみあげ(スキニング)"
+		},
+		{
+			"Id": "ArtMesh44_Skinning",
+			"Name": "グロー_前髪_左もみあげ(スキニング)"
+		},
+		{
+			"Id": "ArtMesh47_Skinning",
+			"Name": "グロー_後ろ髪_右01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh48_Skinning",
+			"Name": "グロー_後ろ髪_右02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh49_Skinning",
+			"Name": "グロー_後ろ髪_右03(スキニング)"
+		},
+		{
+			"Id": "ArtMesh50_Skinning3",
+			"Name": "グロー_後ろ髪_左01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh50_Skinning2",
+			"Name": "グロー_後ろ髪_左01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh50_Skinning",
+			"Name": "グロー_後ろ髪_左01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh51_Skinning",
+			"Name": "グロー_後ろ髪_左02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh52_Skinning",
+			"Name": "グロー_後ろ髪_左03(スキニング)"
+		},
+		{
+			"Id": "ArtMesh53_Skinning2",
+			"Name": "グロー_後ろ髪_左04(スキニング)"
+		},
+		{
+			"Id": "ArtMesh53_Skinning",
+			"Name": "グロー_後ろ髪_左04(スキニング)"
+		},
+		{
+			"Id": "ArtMesh54_Skinning",
+			"Name": "グロー_後ろ髪_左05(スキニング)"
+		},
+		{
+			"Id": "ArtMesh55_Skinning",
+			"Name": "グロー_後ろ髪_左06(スキニング)"
+		},
+		{
+			"Id": "ArtMesh5_Skinning",
+			"Name": "前髪_頂点(スキニング)"
+		},
+		{
+			"Id": "ArtMesh6_Skinning",
+			"Name": "前髪_中央上(スキニング)"
+		},
+		{
+			"Id": "ArtMesh7_Skinning",
+			"Name": "前髪_中央01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh8_Skinning",
+			"Name": "前髪_中央02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh9_Skinning",
+			"Name": "前髪_左01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh10_Skinning",
+			"Name": "前髪_左02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh11_Skinning",
+			"Name": "前髪_左03(スキニング)"
+		},
+		{
+			"Id": "ArtMesh12_Skinning",
+			"Name": "前髪_右01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh13_Skinning",
+			"Name": "前髪_右02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh14_Skinning",
+			"Name": "前髪_右03 右もみあげ(スキニング)"
+		},
+		{
+			"Id": "ArtMesh15_Skinning",
+			"Name": "前髪_右04(スキニング)"
+		},
+		{
+			"Id": "ArtMesh25_Skinning",
+			"Name": "後ろ髪_右01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh26_Skinning",
+			"Name": "後ろ髪_右02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh27_Skinning",
+			"Name": "後ろ髪_右03(スキニング)"
+		},
+		{
+			"Id": "ArtMesh28_Skinning3",
+			"Name": "後ろ髪_左01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh28_Skinning2",
+			"Name": "後ろ髪_左01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh28_Skinning",
+			"Name": "後ろ髪_左01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh29_Skinning",
+			"Name": "後ろ髪_左02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh30_Skinning",
+			"Name": "後ろ髪_左03(スキニング)"
+		},
+		{
+			"Id": "ArtMesh31_Skinning2",
+			"Name": "後ろ髪_左04(スキニング)"
+		},
+		{
+			"Id": "ArtMesh31_Skinning",
+			"Name": "後ろ髪_左04(スキニング)"
+		},
+		{
+			"Id": "ArtMesh32_Skinning",
+			"Name": "後ろ髪_左05(スキニング)"
+		},
+		{
+			"Id": "ArtMesh33_Skinning",
+			"Name": "後ろ髪_左06(スキニング)"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"Param6",
+			"Param5"
+		],
+		[
+			"ParamEyeRL",
+			"ParamEyeHB"
+		]
+	]
+}
