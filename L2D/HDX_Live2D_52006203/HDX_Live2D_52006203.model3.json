@@ -1,0 +1,41 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "HDX_Live2D_52006203.moc3",
+    "Textures": [
+      "texture_00.png",
+      "texture_01.png",
+      "texture_02.png",
+      "texture_03.png",
+      "texture_04.png",
+      "texture_05.png",
+      "texture_06.png",
+      "texture_07.png"
+    ],
+    "DisplayInfo": "HDX_Live2D_52006203.cdi3.json",
+    "Motions": {
+      "Idle": [
+        {
+          "File": "animation_wait.motion3.json"
+        }
+      ],
+      "Effect": [
+        {
+          "File": "animation_effect.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": []
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}
