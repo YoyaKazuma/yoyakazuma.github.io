@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <script type="text/javascript" src="https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js"></script>
+      <script type="text/javascript" src="https://pixijs.download/v6.3.0/pixi.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/pixi-live2d-display/dist/cubism4.min.js"></script>
+      <script type="text/javascript" src="https://stuk.github.io/jszip/dist/jszip.js"></script>
+   </head>
+   <body style="margin:0;">
+      <div id="background" style="height:100vw;"><canvas id="canvas"></canvas></div>
+      <script type="text/javascript">
+         PIXI.live2d.ZipLoader.zipReader = (data, url) => JSZip.loadAsync(data);
+         PIXI.live2d.ZipLoader.readText = (jsZip, path) => {
+            const file = jsZip.file(path);
+            if (!file) {
+               throw new Error('Cannot find file: ' + path);
+            }
+            return file.async('text');
+         };
+         PIXI.live2d.ZipLoader.getFilePaths = (jsZip) => {
+    const paths = [];
+    jsZip.forEach(relativePath => paths.push(relativePath));
+    return Promise.resolve(paths);
+};
+         PIXI.live2d.ZipLoader.getFiles = (jsZip, paths) => Promise.all(paths.map(async (path) => {
+    const fileName = path.slice(path.lastIndexOf('/') + 1);
+    const blob = await jsZip.file(path).async('blob');
+    return new File([blob], fileName);
+}));
+
+
+         const Data = "https://yoyakazuma.github.io/L2D/HDX_Live2D_52007002.zip";
+         ( async function main(){
+            const APP = new PIXI.Application( { autoStart : true , view : document.getElementById("canvas") , resizeTo : document.getElementById("background") } );
+            const Model = await PIXI.live2d.Live2DModel.from(Data);
+            APP.stage.addChild(Model);
+            Model.position.x = ( document.getElementById("background").clientWidth - 1200 ) / 2;
+            Model.scale.set( 1200 / document.getElementById("background").clientWidth );
+         } )();
+      </script>
+   </body>
+</html>
